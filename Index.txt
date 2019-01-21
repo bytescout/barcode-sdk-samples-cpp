@@ -1,5 +1,5 @@
 ## Index of source code examples:
 
-\Common Example
+\generate barcode
+\generate barcode Monochrome Bitmap
 \Get Barcode To Memory Buffer
-\Monochrome Bitmap
